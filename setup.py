@@ -14,7 +14,7 @@ setup(
     install_requires = [
         'cobra~=0.29.0',
         'networkx~=3.1',
-        'pandas~=2.0.3',
+        'pandas>=2.0.3',
         'Pebble~=5.0.7'
     ],
 )
